@@ -1,1 +1,0 @@
-# lit-element-webpack-tester
